@@ -1,0 +1,27 @@
+#footer{
+    position: relative;
+    bottom: 0;
+    left:0;
+    right: 0;
+}
+button{
+    background-color:  rgb(229, 126, 143) !important ;
+}
+.bg-pink {
+    background-color: rgb(229, 126, 143);
+    padding: 0 10px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    color: white;
+    font-weight: bold;
+  }
+.color-pink{
+    color: rgb(229, 126, 143) !important;
+
+}
+.rounded-footer{
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    
+}
